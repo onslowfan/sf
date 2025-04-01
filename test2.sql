@@ -1,5 +1,5 @@
 use database testing;
-create or replace Procedure X2()
+create or replace Procedure X22()
 RETURNS VARCHAR NOT NULL
 LANGUAGE SQL
     as
