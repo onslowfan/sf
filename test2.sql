@@ -7,4 +7,4 @@ LANGUAGE SQL
     create table TESTING.Test.abc as select * from TESTING.TEST.VS where 1=0;
     return 'wah';
     end;
-
+----- test2
