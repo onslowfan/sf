@@ -8,3 +8,4 @@ LANGUAGE SQL
     return 'wah';
     end;
 ----- test2
+----- def
